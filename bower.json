@@ -1,0 +1,13 @@
+{
+  "name": "Angular Weather",
+  "version": "0.1",
+  "authors": [
+    "Chintan Jariwala"
+  ],
+  "description": "Weather Forcasting Application",
+  "main": "Index.html",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.0.0"
+  }
+}
