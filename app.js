@@ -5,7 +5,7 @@
   var app = angular.module('weatherApp', []);
 
   app.controller('MainCtrl', ['$scope','$http',function($scope,$http){
-    $scope.APIKEY = "dd1e70fef626370ab142309e1ea51374";
+    $scope.APIKEY = "YOUR API KEY GOES HERE";
     $scope.test = 'My Weather Application';
     $scope.city = "";
     $scope.details = "";
